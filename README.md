@@ -9,6 +9,7 @@ The customer segmentation intro groups will be specially useful to the marketing
 ## Methods and techniques used
 
 * Data scaling
+* Correlaion Matrix
 * Principal Analysis Components 
 * Elbow Method
 * Clustering Model
